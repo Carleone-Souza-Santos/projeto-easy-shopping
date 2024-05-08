@@ -3,7 +3,7 @@
 
 
 <div>
-<h1>projeto-Landing page-Shopping.</h1>
+<h1>Projeto landing page shopping.</h1>
 <a href="https://www.linkedin.com/in/carleone-santos/" target="_blank">
 <img src="https://github.com/Carleone-Souza-Santos/Proj.Hamburgueria.Carl/blob/master/arsset/social_media_online_linked_in_icon-icons.com_59694.png?raw=true"  alt="linkdin"></a> 
 <a href="https://carleone-souza-santos.github.io/projeto-easy-shopping/">
